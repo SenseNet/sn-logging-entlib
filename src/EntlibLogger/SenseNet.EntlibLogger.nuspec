@@ -19,6 +19,7 @@
     </dependencies>
   </metadata>
   <files>
+    <file src="..\nuget\content\**" target="content" />
     <file src="bin\Release\Microsoft.Practices.EnterpriseLibrary.*" target="lib\net461" />
     <file src="bin\Release\Microsoft.Practices.ServiceLocation.*" target="lib\net461" />
     <file src="bin\Release\Microsoft.Practices.Unity.*" target="lib\net461" />
