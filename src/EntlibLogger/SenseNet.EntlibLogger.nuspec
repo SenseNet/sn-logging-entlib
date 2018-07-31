@@ -3,17 +3,17 @@
   <metadata>
     <id>SenseNet.EntlibLogger</id>
     <version>1.0.0</version>
-    <title>sensenet Event Logger with the Microsoft Enterprise Library</title>
+    <title>sensenet Enterprise Library Event Logger</title>
     <authors>kavics,tusmester</authors>
     <owners>Sense/Net</owners>
-    <licenseUrl>https://github.com/SenseNet/sensenet/blob/master/LICENSE</licenseUrl>
-    <projectUrl>https://github.com/SenseNet/sensenet</projectUrl>
+    <licenseUrl>https://github.com/SenseNet/sn-logging-entlib/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/SenseNet/sn-logging-entlib</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/SenseNet/sn-resources/master/images/sn-icon/sensenet-icon-64.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Event Logger plugin for sensenet that uses the Logging module of the Microsoft Enterprise Library.</description>
+    <description>Event Logger plugin for sensenet that uses the Logging module of Microsoft Enterprise Library.</description>
     <releaseNotes>See release notes on GitHub.</releaseNotes>
     <copyright>Copyright © Sense/Net Inc.</copyright>
-    <tags>sensenet ecm ecms logging</tags>
+    <tags>sensenet ecm ecms logging entlib enterprise library</tags>
     <dependencies>
       <dependency id="SenseNet.Tools" version="3.0.2" />
     </dependencies>
