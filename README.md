@@ -8,3 +8,9 @@ Use this package if you want to send event log entries through _Enterprise Libra
 This package gives operators more flexibility on formatting and directing event message to different targets.
 
 > This package is available only for applications that are built on the .Net Framework. .Net Core applications should use a more modern a logging provider.
+
+# sensenet as a service (SNaaS) - use sensenet from the cloud
+
+For a monthly subscription fee, we store all your content and data, relieving you of all maintenance-related tasks and installation, ensuring easy onboarding, easy updates, and patches.
+
+https://www.sensenet.com/pricing
